@@ -1,0 +1,21 @@
+food,calories,protein,fat,sodium,fiber,carbo,sugars,potassium,vitamin_c,iron,calcium,ingredients,recipe
+Aloo_matar,123,4.11g,3.70g,331mg,5.1g,20.60g,3.94g,451mg,32.9mg,3.65mg,56mg,"potatoes, peas, onions, tomatoes, spices, oil",https://www.youtube.com/results?search_query=aloo+matar
+Besan_cheela,162,7.86g,4.84g,154mg,4.7g,21.96g,4.21g,372mg,6.5mg,2.30mg,27mg,"chickpea flour, water, onions, tomatoes, green chilies, spices",https://www.youtube.com/results?search_query=besan+cheela
+Biryani,348,15.90g,9.82g,805mg,2.2g,48.07g,2.47g,391mg,5.1mg,1.98mg,53mg,"basmati rice, chicken, yogurt, onions, garlic, ginger, spices, ghee",https://www.youtube.com/results?search_query=chicken+biryani
+Chapathi,85,3.00g,1.00g,70mg,2.0g,16.00g,0.50g,80mg,0mg,0.80mg,17mg,"whole wheat flour, water, salt",https://www.youtube.com/results?search_query=chapati
+Chole_bature,426,10.52g,20.80g,559mg,9.7g,51.84g,2.61g,601mg,20.2mg,3.57mg,102mg,"chickpeas, flour, yogurt, spices, oil",https://www.youtube.com/results?search_query=chole+bature
+Dahl,230,18.0g,1.0g,10mg,15.6g,39.9g,3.6g,731mg,3.3mg,6.6mg,38mg,"split red lentils, onions, tomatoes, garlic, ginger, spices, oil",https://www.youtube.com/results?search_query=dahl
+Dhokla,60,2.88g,1.54g,136mg,2.6g,9.17g,1.97g,138mg,1.0mg,0.99mg,22mg,"gram flour, yogurt, water, ENO fruit salt, green chili, ginger, spices",https://www.youtube.com/results?search_query=dhokla
+Dosa,106,2.51g,1.04g,254mg,0.8g,21.24g,0.15g,57mg,0.2mg,0.74mg,6mg,"rice, urad dal, fenugreek seeds, salt, oil",https://www.youtube.com/results?search_query=dosa
+Gulab_jamun,145,3.22g,7.09g,49mg,0.2g,17.67g,13.22g,141mg,0.9mg,0.17mg,100mg,"khoya (milk solids), flour, sugar, cardamom, saffron, ghee",https://www.youtube.com/results?search_query=gulab+jamun
+Idli,40,1.91g,0.19g,207mg,1.5g,7.89g,0.22g,63mg,0.2mg,0.98mg,6mg,"rice, urad dal, water",https://www.youtube.com/results?search_query=idli
+Jalebi,150,2.09g,2.16g,73mg,0.5g,31.18g,21.38g,63mg,0.7mg,0.36mg,66mg,"flour, yogurt, sugar, saffron, oil",https://www.youtube.com/results?search_query=jalebi
+Kadai_paneer,280,12.37g,20.29g,856mg,4.0g,15.21g,5.28g,487mg,116.7mg,2.22mg,123mg,"paneer, capsicum, onion, tomato, ginger, garlic, spices, oil",https://www.youtube.com/results?search_query=kadai+paneer
+Naan,137,3.74g,5.10g,142mg,0.7g,18.80g,0.85g,60mg,0.1mg,1.17mg,25mg,"refined flour, yogurt, yeast, water, salt, oil",https://www.youtube.com/results?search_query=naan
+Paani_puri,25,0.49g,1.03g,28mg,0.2g,4.22g,0.37g,18mg,0.8mg,0.16mg,3mg,"semolina flour, water, potatoes, chickpeas, spices, tamarind, mint",https://www.youtube.com/results?search_query=pani+puri
+Pakoda,14,0.55g,0.55g,132mg,0.5g,1.86g,0.35g,30mg,0.4mg,0.19mg,3mg,"mixed vegetables, chickpea flour, spices, water, oil",https://www.youtube.com/results?search_query=pakoda
+Pav_bhaji,160,3.26g,9.05g,657mg,3.6g,18.05g,2.03g,270mg,17.8mg,2.10mg,64mg,"pav (bread), potatoes, peas, tomatoes, butter, spices",https://www.youtube.com/results?search_query=pav+bhaji
+Poha,270,5.74g,7.03g,492mg,2.3g,46.05g,1.24g,288mg,15.7mg,2.61mg,36mg,"rice flakes, onions, mustard seeds, peanuts, curry leaves, chilies",https://www.youtube.com/results?search_query=poha
+Rolls,300,6g,12g,500mg,3g,40g,2g,200mg,8mg,1.8mg,45mg,"flatbread, paneer/veg filling, onions, sauces, spices",https://www.youtube.com/results?search_query=rolls
+Samosa,308,4.67g,17.86g,816mg,1.7g,32.21g,1.26g,185mg,4.5mg,1.78mg,27mg,"potatoes, peas, flour, spices, oil",https://www.youtube.com/results?search_query=samosa
+Vada_pav,304,9.17g,11.91g,331mg,3.8g,40.17g,9.42g,331mg,5.1mg,2.70mg,71mg,"potatoes, chickpea flour, pav (bread), chutneys, spices",https://www.youtube.com/results?search_query=vada+pav
