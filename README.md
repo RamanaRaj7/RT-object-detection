@@ -2,8 +2,6 @@
 
 A computer vision application that detects food items from images or video streams and estimates their calorie content in real-time.
 
-![Food Detection Example](https://via.placeholder.com/800x400?text=Food+Detection+Example)
-
 ## Overview
 
 This project uses deep learning (YOLO model) to identify Indian food items from images or video streams, and provides nutritional information including calorie content. It features:
